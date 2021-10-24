@@ -1,6 +1,5 @@
 11111
-// 22222P // permanent measure
-2XXX2 // temporary measure
+22222
 33333rrr /* expire module */
 44444
 55555
